@@ -1,0 +1,6 @@
+doorbell_distance: 1
+doorbell_sounds:
+  - BLOCK_NOTE_BLOCK_FLUTE 	
+  - BLOCK_NOTE_BLOCK_BELL
+  - BLOCK_NOTE_BLOCK_CHIME
+  - BLOCK_NOTE_BLOCK_HARP
