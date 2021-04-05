@@ -1,0 +1,9 @@
+name: Doorbells
+version: 1.6
+main: me.flame.doorbells.Doorbells
+api-version: 1.13
+description: Allows players to set buttons to doorbells that makes a sound when next to a door.
+commands:
+    doorbells:
+        description: Main command for Doorbells
+        aliases: [doorbell, db]
